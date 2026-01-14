@@ -1,99 +1,72 @@
-# Dushyant Rajpurohit
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Dushyant Rajpurohit",
-  bio: "Aspiring Data Scientist & AI Engineer Motivated developer with a dual focus on Machine Learning and Backend Engineering.",
-  skills: [
-    "React",
-    "Next.js",
-    "Tailwind",
-    "Node.js",
-    "PostgreSQL",
-    "Docker",
-    "TensorFlow",
-    "PyTorch",
-    "Scikit-Learn",
-    "OpenCV",
-    "Pandas",
-    "NumPy",
-    "Keras",
-    "C++",
-    "C",
-    "Python"
-  ],
-}
-```
+# 🌟 Welcome to Dushyant Rajpurohit's Profile 🌟
+
+<p><em>Aspiring Data Scientist & AI Engineer Motivated developer with a dual focus on Machine Learning and Backend Engineering.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "React",
-    "Next.js",
-    "Tailwind"
-  ],
-  "backend": [
-    "Node.js",
-    "PostgreSQL"
-  ],
-  "devops": [
-    "Docker"
-  ],
-  "ai/ml": [
-    "TensorFlow",
-    "PyTorch",
-    "Scikit-Learn",
-    "OpenCV",
-    "Pandas",
-    "NumPy",
-    "Keras"
-  ],
-  "languages": [
-    "C++",
-    "C",
-    "Python"
-  ]
-}
-```
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  linkedin: "https://www.linkedin.com/in/dushyant-singh-0793a036a/",
-  leetcode: "https://leetcode.com/u/RaKd5Yz2cE/",
-  instagram: "https://www.instagram.com/dushyant_5412/",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://www.linkedin.com/in/dushyant-singh-0793a036a/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/RaKd5Yz2cE/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> <a href="https://www.instagram.com/dushyant_5412/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/dushyant-singh-0793a036a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "dushyantrajpurohit5412@gmail.com",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** dushyantrajpurohit5412@gmail.com
 
-process.exit(0); // Until next time 👋
-```
+</div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
 </div>
