@@ -42,8 +42,3 @@
 
 ---
 ⭐️ From [Dushyant Rajpurohit](https://github.com/)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
-</div>
