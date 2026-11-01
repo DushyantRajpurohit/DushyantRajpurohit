@@ -25,10 +25,10 @@ Shows that PaySim, the standard fraud dataset, can be solved with one equality c
 
 `Python` `LightGBM` `SHAP` `FastAPI` `Docker`
 
-### [VillageLab](https://github.com/DushyantRajpurohit/villagelab) · [live app](https://villagelab.vercel.app)
+### [VillageLab](https://github.com/DushyantRajpurohit/villagelab) · [live demo, sample data](https://villagelab.vercel.app)
 Progress tracking, upgrade planning and war analytics for Clash of Clans.
 - Queue-based ingestion so no user request hits the rate-limited game API directly
-- Hand-checked dataset of 2,500+ upgrade levels, read by a parser that refuses to guess
+- Dataset of 2,500+ upgrade levels, read by a parser that refuses to guess
 - Postgres snapshot history answers questions the API can't (trends, churn); 931 tests, runs on free hosting
 
 `Next.js` `TypeScript` `PostgreSQL` `Vitest`
